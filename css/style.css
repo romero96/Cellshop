@@ -153,10 +153,14 @@ ul, ol{
 /** Mobile Menu **/
 .mobile-menu img {
     width: 5rem;
+    cursor: pointer;
+    transition: all .5s ease;
 }
 @media (min-width: 768px) {
     .mobile-menu {
         display: none;
+        cursor: pointer;
+        transition: all .5s ease;
     }
 }
 .navegacion:target {
