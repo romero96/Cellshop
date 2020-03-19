@@ -652,7 +652,7 @@ tr:hover td{
     background-image: url("../Img/glosario.jpg");
     -webkit-background-size: cover;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachmen: fixed;
     cursor: pointer;
     transition: all .5s ease;
 }
