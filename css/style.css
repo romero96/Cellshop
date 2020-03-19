@@ -65,7 +65,7 @@ h4 {
     filter: contrast(90%);
 }
 .site-header.inicio {
-    background-image: url(../img/fondo.jpg);
+    background-image: url(../Img/fondo.jpg);
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
